@@ -1,10 +1,10 @@
-# Model Interface
+# Antiwork Tendency Prediction
 
-This is the UI part created by group MindReader in EECS448 (WN2023). It's supposed to predict whether someone is tend to be antiwork with Reddit posts and highlight some words that may have significant impact on the prediction. You can try playing with the UI by downloading the compressed file.
+This project was carried out during the course Human-centered Machine Learning. The user interface is built with a Python library named Tkinter. The interface has basic input and ouput functions while enabling selection of two prediction models. When RNN model is selected, the interface can highlight some words with significant attribution for the prediction result. With this interface, it's possible to better analyze someone's tendency to antiwork. 
 
-The following image shows the outcome of the interface. 
+You can try playing with the UI by downloading the compressed file.
 
 <div align=center>
 <img src="https://github.com/nexuszhan/MindReader/blob/main/UI1.png" width="400px">
-<img src="https://github.com/nexuszhan/MindReader/blob/main/UI2.png" width="400px">
+<img src="https://github.com/nexuszhan/MindReader/blob/main/highlight_post.png" width="400px">
 </div>
