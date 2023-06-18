@@ -6,6 +6,6 @@ You can try playing with the UI by downloading the compressed file.
 
 <div align=center>
 <img src="https://github.com/nexuszhan/MindReader/blob/main/UI1.png" width="400px">
-  
+
 <img src="https://github.com/nexuszhan/MindReader/blob/main/highlight_post.png" width="400px">
 </div>
